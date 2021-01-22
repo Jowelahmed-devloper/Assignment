@@ -1,12 +1,12 @@
 // Repository Link: https://github.com/Jowelahmed-devloper/Assignment
 
-// CODE FOR KILOMETER TO METER CONVERT
+// CODE FOR KILOMETER TO METER CONVERT START HERE
 
 function kilometerToMeter (meter){
     var meter = meter * 1000;
     return meter;
 }
-// CODE FOR KILOMETER TO END CONVERT
+// CODE FOR KILOMETER TO CONVERT END HERE
 
 // CODE FOR BUDGET CALCULATOR START HERE
 
